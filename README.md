@@ -1,68 +1,63 @@
 # **Python Language**
 
-Este repositório contém uma coleção de códigos em Python destinados a aplicações em Ciência da Computação. Os códigos abrangem diversos tópicos e podem ser usados como recursos de aprendizado, referência ou para resolver problemas específicos relacionados à Ciência da Computação.
+This repository contains a collection of Python code snippets aimed at applications in Computer Science. The code covers various topics and can be used as learning resources, references, or to solve specific problems related to Computer Science.
 
-## Estrutura do Repositório
+## Repository Structure
 
-O repositório está organizado em subdiretórios, cada um correspondendo a uma categoria específica de códigos. Abaixo está uma visão geral das categorias disponíveis:
+The repository is organized into subdirectories, each corresponding to a specific category of code. Below is an overview of the available categories:
 
-- `algoritmos`: Implementações de algoritmos clássicos e avançados, como ordenação, pesquisa, grafos, otimização, entre outros.
+- `Algorithms`: Implementations of classic and advanced algorithms, such as sorting, searching, graphs, optimization, among others.
 
-- `estruturas-de-dados`: Implementações de estruturas de dados, como listas, pilhas, filas, árvores, grafos e muito mais.
+- `Data-Structures`: Implementations of data structures like lists, stacks, queues, trees, graphs, and more.
 
-- `processamento-de-imagens`: Códigos relacionados ao processamento de imagens, incluindo manipulação, análise, filtragem e visão computacional.
+- `Image-Processing`: Code related to image processing, including manipulation, analysis, filtering, and computer vision.
 
-- `machine-learning`: Exemplos de algoritmos e técnicas de aprendizado de máquina, incluindo bibliotecas populares como scikit-learn e TensorFlow.
+- `Machine-Learning`: Examples of machine learning algorithms and techniques, including popular libraries like scikit-learn and TensorFlow.
 
-- `redes-neurais`: Implementações de redes neurais artificiais e exemplos de aplicações em aprendizado profundo.
+- `Neural-Networks`: Implementations of artificial neural networks and examples of deep learning applications.
 
-- `criptografia`: Códigos relacionados à criptografia e segurança da informação, incluindo algoritmos de criptografia clássicos e modernos.
+- `Cryptography`: Code related to cryptography and information security, including classical and modern cryptography algorithms.
 
-- `interfaces-graficas`: Exemplos de criação de interfaces gráficas de usuário (GUI) usando bibliotecas como tkinter e PyQT.
+- `Graphical-Interfaces`: Examples of creating graphical user interfaces (GUI) using libraries like tkinter and PyQT.
 
-- `web`: Exemplos de desenvolvimento web em Python, incluindo frameworks como Flask e Django.
+- `Web`: Examples of web development in Python, including frameworks like Flask and Django.
 
-- `exemplos-gerais`: Códigos diversos que não se encaixam nas categorias anteriores, mas são úteis para fins de demonstração e aprendizado.
+- `General-Examples`: Miscellaneous code that doesn't fit into the previous categories but is useful for demonstration and learning purposes.
 
-## Requisitos
+## Requirements
 
-- Python 3.x: A maioria dos códigos é compatível com Python 3. Certifique-se de ter o Python instalado em seu ambiente.
+- Python 3.x: Most of the code is compatible with Python 3. Make sure you have Python installed in your environment.
 
-- Bibliotecas Python: Alguns códigos podem exigir a instalação de bibliotecas específicas. Você pode verificar os requisitos em cada subdiretório.
+- Python Libraries: Some code may require the installation of specific libraries. You can check the requirements in each subdirectory.
 
-## Como Usar
+## How to Use
 
-1. Clone este repositório:
+1. Clone this repository:
 
-		git clone https://github.com/NullCipherr/Python_Language.git
-	
-2. Navegue para o diretório da categoria de código desejada.
+    ```
+    git clone https://github.com/NullCipherr/Python_Language.git
+    ```
 
-3. Execute os códigos em Python com o interpretador apropriado:
+2. Navigate to the directory of the desired code category.
 
-		python3 nome-do-arquivo.py
-	
+3. Run the Python code using the appropriate interpreter:
 
-4. Siga as instruções ou comentários no código para entender como ele funciona e adapte-o conforme necessário.
+    ```
+    python3 filename.py
+    ```
 
-## Contribuição
+4. Follow the instructions or comments in the code to understand how it works and adapt it as needed.
 
-Contribuições são bem-vindas! Se você deseja adicionar novos códigos, fazer melhorias ou corrigir erros, siga estas etapas:
+## Contribution
 
-1. Faça um fork deste repositório.
+Contributions are welcome! If you want to add new code, make improvements, or fix bugs, follow these steps:
 
-2. Crie um branch para sua nova feature (`git checkout -b minha-nova-feature`).
+1. Fork this repository.
 
-3. Faça commit de suas mudanças (`git commit -am 'Adicionei uma nova feature'`).
+2. Create a branch for your new feature (`git checkout -b my-new-feature`).
 
-4. Faça um push para o branch (`git push origin minha-nova-feature`).
+3. Commit your changes (`git commit -am 'Added a new feature'`).
 
-5. Crie um novo pull request explicando suas mudanças.
+4. Push to the branch (`git push origin my-new-feature`).
 
-
-
-
-
-
-	
-
+5. Create a new pull request explaining your changes.
