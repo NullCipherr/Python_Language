@@ -1,6 +1,6 @@
 # **Python Language**
 
->!Este repositório contém uma coleção de códigos em Python destinados a aplicações em Ciência da Computação. Os códigos abrangem diversos tópicos e podem ser usados como recursos de aprendizado, referência ou para resolver problemas específicos relacionados à Ciência da Computação.
+Este repositório contém uma coleção de códigos em Python destinados a aplicações em Ciência da Computação. Os códigos abrangem diversos tópicos e podem ser usados como recursos de aprendizado, referência ou para resolver problemas específicos relacionados à Ciência da Computação.
 
 ## Estrutura do Repositório
 
@@ -26,21 +26,21 @@ O repositório está organizado em subdiretórios, cada um correspondendo a uma 
 
 ## Requisitos
 
-	- Python 3.x: A maioria dos códigos é compatível com Python 3. Certifique-se de ter o Python instalado em seu ambiente.
+- Python 3.x: A maioria dos códigos é compatível com Python 3. Certifique-se de ter o Python instalado em seu ambiente.
 
-	- Bibliotecas Python: Alguns códigos podem exigir a instalação de bibliotecas específicas. Você pode verificar os requisitos em cada subdiretório.
+- Bibliotecas Python: Alguns códigos podem exigir a instalação de bibliotecas específicas. Você pode verificar os requisitos em cada subdiretório.
 
 ## Como Usar
 
 1. Clone este repositório:
 
-	git clone https://github.com/NullCipherr/Python_Language.git
+		git clone https://github.com/NullCipherr/Python_Language.git
 	
 2. Navegue para o diretório da categoria de código desejada.
 
 3. Execute os códigos em Python com o interpretador apropriado:
 
-	python3 nome-do-arquivo.py
+		python3 nome-do-arquivo.py
 	
 
 4. Siga as instruções ou comentários no código para entender como ele funciona e adapte-o conforme necessário.
