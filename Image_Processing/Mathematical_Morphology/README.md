@@ -39,17 +39,3 @@ The repository is organized into subdirectories, each corresponding to a specifi
     ```
 
 4. Follow the instructions or comments in the code to understand how it works and adapt it as needed.
-
-## Contribution
-
-Contributions are welcome! If you want to add new code, make improvements, or fix bugs, follow these steps:
-
-1. Fork this repository.
-
-2. Create a branch for your new feature (`git checkout -b my-new-feature`).
-
-3. Commit your changes (`git commit -am 'Added a new feature'`).
-
-4. Push to the branch (`git push origin my-new-feature`).
-
-5. Create a new pull request explaining your changes.
